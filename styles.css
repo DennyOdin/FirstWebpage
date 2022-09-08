@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+
+
+.header{
+    background-color: #1F2937;
+    color:  #F9FAF8;
+    font-size: 18px;
+    display:flex;
+}
+
+.header .logo{
+    font-size: 24px;
+    margin-left:200px;
+    margin-top:auto;  
+    margin-bottom:auto; 
+}
+
+ul{
+    display:flex;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.image1{
+    height: 100px;
+    width: 100px;
+}
